@@ -1,1 +1,1 @@
-msbuild Portal.sln /t:build /p:configuration=release
+msbuild Portal.sln /t:build /p:configuration=release /p:VisualStudioVersion=12.0

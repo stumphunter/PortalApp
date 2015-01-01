@@ -1,0 +1,1 @@
+msbuild Portal.sln /t:build /p:configuration=release

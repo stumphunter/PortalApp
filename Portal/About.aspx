@@ -8,10 +8,10 @@
     <article>
         <p>        
             <b>Our Company Details</b><br />
-            World class online commerce demands intensive resources. Global reach and local-market savvy. Cutting-edge infrastructure and time-tested experience. Revenue-driving marketing tools and clear, powerful thinking. Since 1994, no one has tackled these challenges—and delivered results—better than Digital River.
+            World class online commerce demands intensive resources. Global reach and local-market savvy. Cutting-edge infrastructure and time-tested experience. Revenue-driving marketing tools and clear, powerful thinking. Since 1994, no one has tackled these challenges—and delivered results—better than Digi-Key.
             <br />
             <br />
-            Every day, tens of thousands of companies—both large and small—rely on Digital River for the proven expertise and comprehensive cloud commerce, marketing and payment solutions they need to build, manage and grow their businesses on a global scale.
+            Every day, tens of thousands of companies—both large and small—rely on Digi-Key for the proven expertise and comprehensive cloud commerce, marketing and payment solutions they need to build, manage and grow their businesses on a global scale.
         </p>
 
         <p>        

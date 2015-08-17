@@ -7,7 +7,7 @@
                 <h1>Our Experience Leads to Your Success.</h1>
             </hgroup>
             <p>
-                E-commerce is a complex business.  Take a deeper dive into your solutions and learn how Digital River's innovative solutions have helped our customers succeed.  
+                E-commerce is a complex business.  Take a deeper dive into your solutions and learn how Digi-Key's innovative solutions have helped our customers succeed.  
                 our game-changing solutions have globalized businesses, streamlined processes, and boosted revenue.  Learn more about how we do it.
             </p>
         </div>
@@ -18,8 +18,8 @@
     Browse our collection of case studies, white papers and success stories—and learn how e-commerce best practices and know-how can turn a good business into a great success.
     <ol class="round">
         <li class="one">
-            <h5>ROI Analysis of Digital River's Value Proposition</h5>
-            Download a customized analysis of Digital River’s value proposition for your organization.
+            <h5>ROI Analysis of Digi-Key's Value Proposition</h5>
+            Download a customized analysis of Digi-Key’s value proposition for your organization.
             <br />
             <br />
             <b>Learn More>>></b>

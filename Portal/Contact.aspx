@@ -42,8 +42,8 @@
             <h3>Address:</h3>
         </header>
         <p>
-            10380 Bren Road West<br />
-            Minnetonka, MN 55343
+            701 Brooks Avenue South<br />
+            Thief River Falls, MN 56701 USA
         </p>
     </section>
 </asp:Content>
